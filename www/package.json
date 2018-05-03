@@ -7,6 +7,7 @@
     "bluebird": "^3.5.1",
     "email-validator": "^1.1.1",
     "gatsby": "next",
+    "gatsby-cli": "next",
     "gatsby-image": "next",
     "gatsby-plugin-canonical-urls": "next",
     "gatsby-plugin-catch-links": "next",
